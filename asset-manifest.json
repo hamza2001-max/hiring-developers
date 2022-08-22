@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hiring-developers/static/css/main.c5a96492.css",
+    "main.js": "/hiring-developers/static/js/main.47feed7c.js",
+    "static/js/787.bd63e665.chunk.js": "/hiring-developers/static/js/787.bd63e665.chunk.js",
+    "static/media/message.png": "/hiring-developers/static/media/message.1b722a57c2ce8ff2980a.png",
+    "static/media/logo.png": "/hiring-developers/static/media/logo.5452f753361786864dc3.png",
+    "index.html": "/hiring-developers/index.html",
+    "main.c5a96492.css.map": "/hiring-developers/static/css/main.c5a96492.css.map",
+    "main.47feed7c.js.map": "/hiring-developers/static/js/main.47feed7c.js.map",
+    "787.bd63e665.chunk.js.map": "/hiring-developers/static/js/787.bd63e665.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a96492.css",
+    "static/js/main.47feed7c.js"
+  ]
+}
